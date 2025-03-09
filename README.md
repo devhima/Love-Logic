@@ -1,6 +1,6 @@
 
 # Love-Logic
-Written By. Ibrahim Said Elsharawy (dev-hima.blogspot.com)
+Written By. Ibrahim Said Elsharawy[devhima blog](https://dev-hima.blogspot.com)
 
 Love-Logic is a humorous Java code
  describes impossible love story condition which appears in an infinite loop of overthinking and waiting for both sides.

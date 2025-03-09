@@ -28,4 +28,4 @@ The output would look something like:
 >Current status: Still single and overthinking..
 ```
 
-The code humorously captures the stalemate where both parties have the same logic, resulting in no action ever being taken - a perfect programmer's take on the situation! 
+The code humorously captures the stalemate where both parties have the same logic, resulting in no action ever being taken - a perfect programmer's take on the situation! 😂🤚
